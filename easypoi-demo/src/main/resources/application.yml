@@ -1,0 +1,4 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /yuan #使用localhost:8081/girl/hello
